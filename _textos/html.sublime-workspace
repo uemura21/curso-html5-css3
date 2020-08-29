@@ -1,0 +1,399 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"b",
+				"bold\tfont-weight"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"l",
+				"language\tAttr"
+			],
+			[
+				"tex",
+				"text"
+			],
+			[
+				"data",
+				"datalist\tTag"
+			],
+			[
+				"i",
+				"id\tAttr"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"ma",
+				"max\tAttr"
+			],
+			[
+				"t",
+				"type\tAttr"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fa",
+				"fale-conosco"
+			],
+			[
+				"u",
+				"url()\tbackground"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"_",
+				"_imagens"
+			],
+			[
+				"backgr",
+				"background-position\tproperty"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"backr",
+				"background\tproperty"
+			],
+			[
+				"s",
+				"stylesheet"
+			],
+			[
+				"ht",
+				"html"
+			],
+			[
+				"a",
+				"alt\tAttr"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"r",
+				"rgba()\tbackground-color"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"onm",
+				"onmouseout\tAttr"
+			],
+			[
+				"onmou",
+				"onmouseout"
+			],
+			[
+				"onmouse",
+				"onmouseover\tAttr"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"bck",
+				"background-color\tproperty"
+			],
+			[
+				"cabe",
+				"cabecalho"
+			],
+			[
+				"bol",
+				"bolder\tfont-weight"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"bord",
+				"border-bottom\tproperty"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"let",
+				"left\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"hm",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Users/Intel - Positivo/Documents/Curso html/_css/estilo.css",
+		"/C/Users/Intel - Positivo/Documents/Curso html/index.html",
+		"/C/Users/Intel - Positivo/Documents/Curso html/specs.html",
+		"/C/Users/Intel - Positivo/Documents/Curso html/_css/form.css",
+		"/C/Users/Intel - Positivo/Documents/Curso html/fale-conosco.html",
+		"/C/Users/Intel - Positivo/Documents/Curso html/_css/media.css",
+		"/C/Users/Intel - Positivo/Documents/Curso html/multimidia.html",
+		"/C/Users/Intel - Positivo/Documents/Curso html/fotos.html",
+		"/C/Users/Intel - Positivo/Documents/Curso html/_css/fotos.css",
+		"/C/Users/Intel - Positivo/Documents/Curso html/google-glass.html",
+		"/C/Users/Intel - Positivo/Documents/Curso html/_css/specs.css",
+		"/C/Users/Intel - Positivo/Documents/Curso html/_textos/google-glass-txt.html",
+		"/C/Users/Intel - Positivo/Documents/Curso html/_textos/specs-txt.html",
+		"/C/Users/Intel - Positivo/Documents/Curso html/_javascript/funcoes.js",
+		"/C/Users/Intel - Positivo/Documents/Curso html/_css/testejs01.html",
+		"/C/Users/Intel - Positivo/Documents/Curso html/testejs01",
+		"/C/Users/Intel - Positivo/Documents/Curso html/_fonts/bubblegum-sans-regular.otf"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "html.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
